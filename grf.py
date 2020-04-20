@@ -21,5 +21,5 @@ if __name__ == "__main__":
     search_result = search(search_keywords, tld=tld, num=num, stop=stop,
                            pause=pause, country=country, lang=lang, user_agent=get_random_user_agent())
     for url in search_result:
-        print("SIRA: {} - SITE: {}".format(rank, url))
+        print("RANK: {} - WEBSITE: {}".format(rank, url))
         rank += 1
