@@ -4,10 +4,10 @@
 
 This is a simple script which helps you to find your rank in Google in a specific search term. It can be helpful for your SEO journey. There are couple of parameters you can pass through the command line.
 
-Sometimes finding correct Python version or downloading dependecies could be a proble so I have created Docker image which you can quickly run it from commandline.
+Sometimes finding correct Python version or downloading dependencies could be a problem so I have created Docker image which you can quickly run it from command line.
 
 ## What are these arguments
-**search_keyword** -> Search term
+**search_keyword:** Search term
 
 **country:** Country or region to focus the search on. Similar to changing the TLD, but does not yield exactly the same results. Only Google knows why...
 
